@@ -2,4 +2,4 @@
 Master Laravel 4.2.*
 
 ## Laravel PHP Framework
-Start Coading With Development Branch
+Start Coding With Development Branch
